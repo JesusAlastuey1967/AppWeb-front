@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <h1>Hola Mundos!</h1>
-      <Link href= '/products/create'>Crear Producto</Link><br></br>
+      <Link href= '/contacts/about'>Crear Producto</Link><br></br>
       <Link href="/contactos/listado">Listado Contacto</Link>
     </div>
   )
