@@ -1,5 +1,11 @@
-function About() {
-    return(<div>Esta es la pagina del About</div> )
-}
 
-export default About
+
+
+
+function Listado () {
+    return (
+      <div>Listado Contactos</div>
+    )
+  }
+  
+  export default Listado
